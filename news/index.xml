@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Academic</title>
-    <link>https://academic-demo.netlify.app/news/</link>
-      <atom:link href="https://academic-demo.netlify.app/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/news/</link>
+      <atom:link href="https://jingjingxu.com/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
-      <link>https://academic-demo.netlify.app/news/</link>
+      <link>https://jingjingxu.com/news/</link>
     </image>
     
     <item>
       <title>Our paper got ACL&#39;21 Best Paper Award</title>
-      <link>https://academic-demo.netlify.app/news/getting-started/</link>
+      <link>https://jingjingxu.com/news/getting-started/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/news/getting-started/</guid>
+      <guid>https://jingjingxu.com/news/getting-started/</guid>
       <description>&lt;p&gt;VOLT is a research work exploring how to generate the optimal vocabulary for neural machine translation. In recent days, this paper got a lot of attentions and we also received several questions from readers. To help more readers understand our work better, I write a &lt;a href=&#34;https://jingjing-nlp.github.io/volt-blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;. In this blog, I will try my best to explain the formulations and motivations behind VOLT. I will use easy-to-understand examples for illustration (maybe not very rigorous for paper writing but somehow ok for blogs).  If you have more questions, please feel free to contact us. You can find our e-mails on the &lt;a href=&#34;https://arxiv.org/abs/2012.15671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Got AAAI New Faculty Highlights Awards</title>
-      <link>https://academic-demo.netlify.app/news/aaai-faculty/</link>
+      <link>https://jingjingxu.com/news/aaai-faculty/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/news/aaai-faculty/</guid>
+      <guid>https://jingjingxu.com/news/aaai-faculty/</guid>
       <description>&lt;p&gt;This year, AAAI launched a new invited speaker program highlighting AI researchers who have just begun careers as new faculty members or the equivalent in industry. Applications were adjudicated by a committee consisting of the AAAI-21 chairs and a diverse group of AAAI Fellows.&lt;/p&gt;
 &lt;p&gt;Very excited to be selected as one of highlighted speakers.&lt;/p&gt;
 &lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952032&lt;/a&gt;&lt;/p&gt;

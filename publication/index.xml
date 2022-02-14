@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>https://academic-demo.netlify.app/publication/</link>
-      <atom:link href="https://academic-demo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/publication/</link>
+      <atom:link href="https://jingjingxu.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://academic-demo.netlify.app/publication/</link>
+      <link>https://jingjingxu.com/publication/</link>
     </image>
     
     <item>
       <title>Duplex Sequence-to-Sequence Learning for Reversible Machine Translation. NeurIPS 2021.</title>
-      <link>https://academic-demo.netlify.app/publication/027-duplex/</link>
+      <link>https://jingjingxu.com/publication/027-duplex/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/027-duplex/</guid>
+      <guid>https://jingjingxu.com/publication/027-duplex/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Vocabulary Learning via Optimal Transport for Neural Machine Translation. ACL 2021 (Best Paper).</title>
-      <link>https://academic-demo.netlify.app/publication/026-volt/</link>
+      <link>https://jingjingxu.com/publication/026-volt/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/026-volt/</guid>
+      <guid>https://jingjingxu.com/publication/026-volt/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>A Survey on Green Deep Learning. Arxiv 2021. </title>
-      <link>https://academic-demo.netlify.app/publication/025-greennlpsurvey/</link>
+      <link>https://jingjingxu.com/publication/025-greennlpsurvey/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/025-greennlpsurvey/</guid>
+      <guid>https://jingjingxu.com/publication/025-greennlpsurvey/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>KNAS: Green Neural Architecture Search. ICML 2021. </title>
-      <link>https://academic-demo.netlify.app/publication/024-knas/</link>
+      <link>https://jingjingxu.com/publication/024-knas/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/024-knas/</guid>
+      <guid>https://jingjingxu.com/publication/024-knas/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction. IJCAI 2020.</title>
-      <link>https://academic-demo.netlify.app/publication/022-stock/</link>
+      <link>https://jingjingxu.com/publication/022-stock/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/022-stock/</guid>
+      <guid>https://jingjingxu.com/publication/022-stock/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -154,9 +154,9 @@
     
     <item>
       <title>MTG: A Benchmarking Suite for Multilingual Text Generation. Arxiv 2021. </title>
-      <link>https://academic-demo.netlify.app/publication/023-mtg/</link>
+      <link>https://jingjingxu.com/publication/023-mtg/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/023-mtg/</guid>
+      <guid>https://jingjingxu.com/publication/023-mtg/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -182,9 +182,9 @@
     
     <item>
       <title>Graph-based Multi-hop Reasoning for Long Text Generation. Arxiv 2020.</title>
-      <link>https://academic-demo.netlify.app/publication/020-graphgenerate/</link>
+      <link>https://jingjingxu.com/publication/020-graphgenerate/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/020-graphgenerate/</guid>
+      <guid>https://jingjingxu.com/publication/020-graphgenerate/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -210,9 +210,9 @@
     
     <item>
       <title>Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. AAAI 2020.</title>
-      <link>https://academic-demo.netlify.app/publication/021-graphreasoning/</link>
+      <link>https://jingjingxu.com/publication/021-graphreasoning/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/021-graphreasoning/</guid>
+      <guid>https://jingjingxu.com/publication/021-graphreasoning/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -238,9 +238,9 @@
     
     <item>
       <title> Understanding and Improving Layer Normalization. NeurIPS 2019.</title>
-      <link>https://academic-demo.netlify.app/publication/019-adanorm/</link>
+      <link>https://jingjingxu.com/publication/019-adanorm/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/019-adanorm/</guid>
+      <guid>https://jingjingxu.com/publication/019-adanorm/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -266,9 +266,9 @@
     
     <item>
       <title>Asking Clarification Questions in Knowledge-Based Question Answering. EMNLP 2019.</title>
-      <link>https://academic-demo.netlify.app/publication/018-clarification/</link>
+      <link>https://jingjingxu.com/publication/018-clarification/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/018-clarification/</guid>
+      <guid>https://jingjingxu.com/publication/018-clarification/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -294,9 +294,9 @@
     
     <item>
       <title>LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification. EMNLP 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/017-lexicalat/</link>
+      <link>https://jingjingxu.com/publication/017-lexicalat/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/017-lexicalat/</guid>
+      <guid>https://jingjingxu.com/publication/017-lexicalat/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -322,9 +322,9 @@
     
     <item>
       <title> Specificity-driven Cascading Approach for Unsupervised Sentiment Modification. EMNLP 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/010-sentimentmodification/</link>
+      <link>https://jingjingxu.com/publication/010-sentimentmodification/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/010-sentimentmodification/</guid>
+      <guid>https://jingjingxu.com/publication/010-sentimentmodification/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -350,9 +350,9 @@
     
     <item>
       <title>Evaluating Semantic Rationality of a Sentence: A SememeWord-Matching Neural Network based on Hownet. NLPCC 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/011-hownet/</link>
+      <link>https://jingjingxu.com/publication/011-hownet/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/011-hownet/</guid>
+      <guid>https://jingjingxu.com/publication/011-hownet/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -378,9 +378,9 @@
     
     <item>
       <title>Knowledge-Aware Conversational Semantic Parsing over Web Tables. NLPCC 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/012-knowledgeqa/</link>
+      <link>https://jingjingxu.com/publication/012-knowledgeqa/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/012-knowledgeqa/</guid>
+      <guid>https://jingjingxu.com/publication/012-knowledgeqa/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -406,9 +406,9 @@
     
     <item>
       <title>Learning Unsupervised Word Mapping via Maximum Mean Discrepancy. NLPCC 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/013-semanticmapping/</link>
+      <link>https://jingjingxu.com/publication/013-semanticmapping/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/013-semanticmapping/</guid>
+      <guid>https://jingjingxu.com/publication/013-semanticmapping/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -434,9 +434,9 @@
     
     <item>
       <title>Muse: Parallel Multi-scale Attention for Sequence to Sequence Learning. Arxiv 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/014-muse/</link>
+      <link>https://jingjingxu.com/publication/014-muse/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/014-muse/</guid>
+      <guid>https://jingjingxu.com/publication/014-muse/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -462,9 +462,9 @@
     
     <item>
       <title>Reasoning over Semantic-level Graph for Fact Checking. ACL 2019.</title>
-      <link>https://academic-demo.netlify.app/publication/015-fever/</link>
+      <link>https://jingjingxu.com/publication/015-fever/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/015-fever/</guid>
+      <guid>https://jingjingxu.com/publication/015-fever/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -490,9 +490,9 @@
     
     <item>
       <title>Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. NAACL 2019. </title>
-      <link>https://academic-demo.netlify.app/publication/016-musicreview/</link>
+      <link>https://jingjingxu.com/publication/016-musicreview/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/016-musicreview/</guid>
+      <guid>https://jingjingxu.com/publication/016-musicreview/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -518,9 +518,9 @@
     
     <item>
       <title>Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning. ACL 2018.</title>
-      <link>https://academic-demo.netlify.app/publication/009-styletransfer/</link>
+      <link>https://jingjingxu.com/publication/009-styletransfer/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/009-styletransfer/</guid>
+      <guid>https://jingjingxu.com/publication/009-styletransfer/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -546,9 +546,9 @@
     
     <item>
       <title>A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation. EMNLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/007-skeleton/</link>
+      <link>https://jingjingxu.com/publication/007-skeleton/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/007-skeleton/</guid>
+      <guid>https://jingjingxu.com/publication/007-skeleton/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -574,9 +574,9 @@
     
     <item>
       <title>An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation. EMNLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/008-automatching/</link>
+      <link>https://jingjingxu.com/publication/008-automatching/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/008-automatching/</guid>
+      <guid>https://jingjingxu.com/publication/008-automatching/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -602,9 +602,9 @@
     
     <item>
       <title>DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text. EMNLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/009-dpgan/</link>
+      <link>https://jingjingxu.com/publication/009-dpgan/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/009-dpgan/</guid>
+      <guid>https://jingjingxu.com/publication/009-dpgan/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -630,9 +630,9 @@
     
     <item>
       <title> Learning Sentiment Memories for Sentiment Modification without Parallel Data. EMNLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/004-sentimentmemory/</link>
+      <link>https://jingjingxu.com/publication/004-sentimentmemory/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/004-sentimentmemory/</guid>
+      <guid>https://jingjingxu.com/publication/004-sentimentmemory/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -658,9 +658,9 @@
     
     <item>
       <title>Cross-Domain and Semi-supervised Named Entity Recognition in Chinese Social Media: A Unified Model. TASLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/005-ner/</link>
+      <link>https://jingjingxu.com/publication/005-ner/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/005-ner/</guid>
+      <guid>https://jingjingxu.com/publication/005-ner/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -686,9 +686,9 @@
     
     <item>
       <title>Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method. TKDE 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/006-tkde/</link>
+      <link>https://jingjingxu.com/publication/006-tkde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/006-tkde/</guid>
+      <guid>https://jingjingxu.com/publication/006-tkde/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -714,9 +714,9 @@
     
     <item>
       <title>Dependency-based Gated Recursive Neural Network for Chinese Word Segmentation. ACL 2016.</title>
-      <link>https://academic-demo.netlify.app/publication/001-segmentationacl2016/</link>
+      <link>https://jingjingxu.com/publication/001-segmentationacl2016/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/001-segmentationacl2016/</guid>
+      <guid>https://jingjingxu.com/publication/001-segmentationacl2016/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -742,9 +742,9 @@
     
     <item>
       <title>Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization. ACL 2017.</title>
-      <link>https://academic-demo.netlify.app/publication/002-summarization/</link>
+      <link>https://jingjingxu.com/publication/002-summarization/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/002-summarization/</guid>
+      <guid>https://jingjingxu.com/publication/002-summarization/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -770,9 +770,9 @@
     
     <item>
       <title>Transfer Deep Learning for Low-Resource Chinese Word Segmentation with A Novel Neural Network. NLPCC 2017.</title>
-      <link>https://academic-demo.netlify.app/publication/003-segmentationnlpcc/</link>
+      <link>https://jingjingxu.com/publication/003-segmentationnlpcc/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/003-segmentationnlpcc/</guid>
+      <guid>https://jingjingxu.com/publication/003-segmentationnlpcc/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

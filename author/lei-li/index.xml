@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lei Li | Academic</title>
-    <link>https://academic-demo.netlify.app/author/lei-li/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/lei-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/author/lei-li/</link>
+      <atom:link href="https://jingjingxu.com/author/lei-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Lei Li</title>
-      <link>https://academic-demo.netlify.app/author/lei-li/</link>
+      <link>https://jingjingxu.com/author/lei-li/</link>
     </image>
     
     <item>
       <title>Duplex Sequence-to-Sequence Learning for Reversible Machine Translation. NeurIPS 2021.</title>
-      <link>https://academic-demo.netlify.app/publication/027-duplex/</link>
+      <link>https://jingjingxu.com/publication/027-duplex/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/027-duplex/</guid>
+      <guid>https://jingjingxu.com/publication/027-duplex/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Vocabulary Learning via Optimal Transport for Neural Machine Translation. ACL 2021 (Best Paper).</title>
-      <link>https://academic-demo.netlify.app/publication/026-volt/</link>
+      <link>https://jingjingxu.com/publication/026-volt/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/026-volt/</guid>
+      <guid>https://jingjingxu.com/publication/026-volt/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>A Survey on Green Deep Learning. Arxiv 2021. </title>
-      <link>https://academic-demo.netlify.app/publication/025-greennlpsurvey/</link>
+      <link>https://jingjingxu.com/publication/025-greennlpsurvey/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/025-greennlpsurvey/</guid>
+      <guid>https://jingjingxu.com/publication/025-greennlpsurvey/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>MTG: A Benchmarking Suite for Multilingual Text Generation. Arxiv 2021. </title>
-      <link>https://academic-demo.netlify.app/publication/023-mtg/</link>
+      <link>https://jingjingxu.com/publication/023-mtg/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/023-mtg/</guid>
+      <guid>https://jingjingxu.com/publication/023-mtg/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

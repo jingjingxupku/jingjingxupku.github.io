@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bingzhen Wei | Academic</title>
-    <link>https://academic-demo.netlify.app/author/bingzhen-wei/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/bingzhen-wei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/author/bingzhen-wei/</link>
+      <atom:link href="https://jingjingxu.com/author/bingzhen-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Bingzhen Wei</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Bingzhen Wei</title>
-      <link>https://academic-demo.netlify.app/author/bingzhen-wei/</link>
+      <link>https://jingjingxu.com/author/bingzhen-wei/</link>
     </image>
     
     <item>
       <title>Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method. TKDE 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/006-tkde/</link>
+      <link>https://jingjingxu.com/publication/006-tkde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/006-tkde/</guid>
+      <guid>https://jingjingxu.com/publication/006-tkde/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Transfer Deep Learning for Low-Resource Chinese Word Segmentation with A Novel Neural Network. NLPCC 2017.</title>
-      <link>https://academic-demo.netlify.app/publication/003-segmentationnlpcc/</link>
+      <link>https://jingjingxu.com/publication/003-segmentationnlpcc/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/003-segmentationnlpcc/</guid>
+      <guid>https://jingjingxu.com/publication/003-segmentationnlpcc/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaodong Zhang | Academic</title>
-    <link>https://academic-demo.netlify.app/author/xiaodong-zhang/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/xiaodong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/author/xiaodong-zhang/</link>
+      <atom:link href="https://jingjingxu.com/author/xiaodong-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaodong Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaodong Zhang</title>
-      <link>https://academic-demo.netlify.app/author/xiaodong-zhang/</link>
+      <link>https://jingjingxu.com/author/xiaodong-zhang/</link>
     </image>
     
     <item>
       <title>Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning. ACL 2018.</title>
-      <link>https://academic-demo.netlify.app/publication/009-styletransfer/</link>
+      <link>https://jingjingxu.com/publication/009-styletransfer/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/009-styletransfer/</guid>
+      <guid>https://jingjingxu.com/publication/009-styletransfer/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

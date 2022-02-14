@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Academic</title>
-    <link>https://academic-demo.netlify.app/publication-type/2/</link>
-      <atom:link href="https://academic-demo.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jingjingxu.com/publication-type/2/</link>
+      <atom:link href="https://jingjingxu.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jingjingxu.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://academic-demo.netlify.app/publication-type/2/</link>
+      <link>https://jingjingxu.com/publication-type/2/</link>
     </image>
     
     <item>
       <title>Cross-Domain and Semi-supervised Named Entity Recognition in Chinese Social Media: A Unified Model. TASLP 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/005-ner/</link>
+      <link>https://jingjingxu.com/publication/005-ner/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/005-ner/</guid>
+      <guid>https://jingjingxu.com/publication/005-ner/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method. TKDE 2018. </title>
-      <link>https://academic-demo.netlify.app/publication/006-tkde/</link>
+      <link>https://jingjingxu.com/publication/006-tkde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/006-tkde/</guid>
+      <guid>https://jingjingxu.com/publication/006-tkde/</guid>
       <description>&lt;!-- 
 # &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
