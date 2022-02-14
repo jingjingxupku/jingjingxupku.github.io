@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Academic</title>
+    <link>https://academic-demo.netlify.app/category/news/</link>
+      <atom:link href="https://academic-demo.netlify.app/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://academic-demo.netlify.app/category/news/</link>
+    </image>
+    
+    <item>
+      <title>Our paper got ACL&#39;21 Best Paper Award</title>
+      <link>https://academic-demo.netlify.app/news/getting-started/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/news/getting-started/</guid>
+      <description>&lt;p&gt;VOLT is a research work exploring how to generate the optimal vocabulary for neural machine translation. In recent days, this paper got a lot of attentions and we also received several questions from readers. To help more readers understand our work better, I write a &lt;a href=&#34;https://jingjing-nlp.github.io/volt-blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;. In this blog, I will try my best to explain the formulations and motivations behind VOLT. I will use easy-to-understand examples for illustration (maybe not very rigorous for paper writing but somehow ok for blogs).  If you have more questions, please feel free to contact us. You can find our e-mails on the &lt;a href=&#34;https://arxiv.org/abs/2012.15671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Got AAAI New Faculty Highlights Awards</title>
+      <link>https://academic-demo.netlify.app/news/aaai-faculty/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/news/aaai-faculty/</guid>
+      <description>&lt;p&gt;This year, AAAI launched a new invited speaker program highlighting AI researchers who have just begun careers as new faculty members or the equivalent in industry. Applications were adjudicated by a committee consisting of the AAAI-21 chairs and a diverse group of AAAI Fellows.&lt;/p&gt;
+&lt;p&gt;Very excited to be selected as one of highlighted speakers.&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You also can find other speakers at:&lt;/p&gt;
+&lt;p&gt;Yonatan Belinkov, Technion&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952033&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pascal Bercher, Australian National University&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Noam Brown, Facebook AI Research&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952037&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eunsol Choi, University of Texas, Austin&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952036&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simon S. Du, University of Washington&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chelsea Finn, Stanford University&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jakob Foerster, Facebook AI Research/University of Toronto/Vector Institute&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952035&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952035&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hoda Heidari, Carnegie Mellon University&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952023&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kokil Jaidka, National University of Singapore&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952026&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dinesh Jayaraman, University of Pennsylvania&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nadin Kokciyan, University of Edinburgh&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952031&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952031&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jundong Li, University of Virginia&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952029&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hang Ma, Simon Fraser University&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952030&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lili Mou, University of Alberta&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952028&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jingjing Xu, ByteDance AI Lab&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Diyi Yang, Georgia Institute of Technology&lt;/p&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://slideslive.com/38952021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slideslive.com/38952021&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

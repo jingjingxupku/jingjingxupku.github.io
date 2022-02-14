@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangchen Luo | Academic</title>
+    <link>https://academic-demo.netlify.app/author/liangchen-luo/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/liangchen-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liangchen Luo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>copyright© 2022 Jingjing Xu</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Liangchen Luo</title>
+      <link>https://academic-demo.netlify.app/author/liangchen-luo/</link>
+    </image>
+    
+    <item>
+      <title>Muse: Parallel Multi-scale Attention for Sequence to Sequence Learning. Arxiv 2019. </title>
+      <link>https://academic-demo.netlify.app/publication/014-muse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/014-muse/</guid>
+      <description>&lt;!-- 
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;create-your-slides-in-markdown---click-the-slides-button-to-check-out-the-example&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+ &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation. EMNLP 2018. </title>
+      <link>https://academic-demo.netlify.app/publication/008-automatching/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/008-automatching/</guid>
+      <description>&lt;!-- 
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+# &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h1 id=&#34;create-your-slides-in-markdown---click-the-slides-button-to-check-out-the-example&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+ &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
